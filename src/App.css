@@ -1,0 +1,56 @@
+body{
+    background-color: darkblue;
+    background-image: url("./images/bigspace.jpeg");
+    background-size: cover;
+    color: white;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.main-header {
+    text-align: center;
+    background-color:rgb(52, 13, 102);
+    padding: 10px 0px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-bottom: 35px;
+    color: white;
+    font-size: 2.5em;
+    height: 40%;
+    width: 100%;
+    font-family: 'Press Start 2P', cursive;
+    
+}
+
+.body {
+    margin-bottom: 15px;
+}
+
+button {
+    height: 40px;
+    width: 65px;
+    border-radius: 10px;
+    background-color:transparent;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+
+button:hover{
+    background-color: white;
+    color: rgb(52, 13, 102);
+}
+.pipe {
+    background-color: white;
+    color: black;
+    width: 100%;
+    margin-top: 25px;
+    font-family: 'Press Start 2P', cursive;
+    padding: 5px;
+}
+h3 {
+    font-size: .5em;
+
+}
